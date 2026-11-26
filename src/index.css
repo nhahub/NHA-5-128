@@ -1,0 +1,30 @@
+@import "tailwindcss";
+
+@theme {
+  /* Colors */
+  --color-savora-orange: #E35922;
+  --color-savora-cream: #F7F3E8;
+  --color-savora-amber: #DB8713;
+  --color-savora-card: rgba(219, 135, 19, 0.25); /* DB8713 25% */
+  --color-savora-black: #1E1E1E;
+  --color-savora-gray-text: rgba(30, 30, 30, 0.85); /* 1E1E1E 85% */
+  --color-savora-border: #8A8A8A;
+  --color-savora-green: #0A7E1C;
+  --color-savora-red: #BE0003;
+
+  /* Fonts */
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "DM Sans", system-ui, sans-serif;
+}
+
+/* Base Styles */
+body {
+  background-color: var(--color-savora-cream);
+  color: var(--color-savora-gray-text);
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, h4, .font-heading {
+  color: var(--color-savora-black);
+  font-family: var(--font-serif);
+}
