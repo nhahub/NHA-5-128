@@ -1,0 +1,1282 @@
+[
+  {
+    "id": 1,
+    "name": "Classic Beef Burger",
+    "description": "Juicy beef patty, melted cheese & fresh veggies",
+    "image": "/images/classic-beef-burger.jpg",
+    "gallery": [
+      "/images/classic-beef-burger1.jpg",
+      "/images/classic-beef-burger2.jpg",
+      "/images/classic-beef-burger3.jpg"
+    ],
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": "2.3K+",
+    "price": 7.99,
+    "category": "Fast Food"
+  },
+  {
+    "id": 2,
+    "name": "Smoky Pepperoni",
+    "description": "Extra mozzarella, crispy crust & rich pepperoni slices",
+    "image": "/images/smoky-pepperoni.jpg",
+    "gallery": [
+      "/images/smoky-pepperoni1.jpg",
+      "/images/smoky-pepperoni2.jpg",
+      "/images/smoky-pepperoni3.jpg"
+    ],
+    "badge": "Fresh & Flaky",
+    "rating": 4.3,
+    "reviews": "3.6K+",
+    "price": 12.99,
+    "category": "Fast Food"
+  },
+  {
+    "id": 3,
+    "name": "Crispy Chicken Burger",
+    "description": "Crunchy fried chicken, lettuce & garlic mayo",
+    "image": "/images/crispy-chicken-burger.jpg",
+    "gallery": [
+      "/images/crispy-chicken-burger1.jpg",
+      "/images/crispy-chicken-burger2.jpg",
+      "/images/crispy-chicken-burger3.jpg"
+    ],
+    "badge": "Top Rated",
+    "rating": 4.3,
+    "reviews": "4.9K+",
+    "price": 6.99,
+    "category": "Fast Food"
+  },
+  {
+    "id": 4,
+    "name": "Double Cheese Burger",
+    "description": "Two beef patties with double melted cheddar",
+    "image": "/images/double-cheese-burger.jpg",
+    "gallery": [
+      "/images/double-cheese-burger1.jpg",
+      "/images/double-cheese-burger2.jpg",
+      "/images/double-cheese-burger3.jpg"
+    ],
+    "badge": "New",
+    "rating": 4.3,
+    "reviews": "6.2K+",
+    "price": 9.49,
+    "category": "Fast Food"
+  },
+  {
+    "id": 5,
+    "name": "Margherita Pizza",
+    "description": "Fresh tomato sauce, mozzarella & basil leaves",
+    "image": "/images/margherita-pizza.jpg",
+    "gallery": [
+      "/images/margherita-pizza1.jpg",
+      "/images/margherita-pizza2.jpg",
+      "/images/margherita-pizza3.jpg"
+    ],
+    "badge": "Chef's Pick",
+    "rating": 4.3,
+    "reviews": "7.5K+",
+    "price": 10.99,
+    "category": "Fast Food"
+  },
+  {
+    "id": 6,
+    "name": "BBQ Chicken Pizza",
+    "description": "Smoky BBQ sauce, grilled chicken & red onions",
+    "image": "/images/bbq-chicken-pizza.jpg",
+    "gallery": [
+      "/images/bbq-chicken-pizza1.jpg",
+      "/images/bbq-chicken-pizza2.jpg",
+      "/images/bbq-chicken-pizza3.jpg"
+    ],
+    "badge": "Best Seller",
+    "rating": 4.3,
+    "reviews": "8.8K+",
+    "price": 12.49,
+    "category": "Fast Food"
+  },
+  {
+    "id": 7,
+    "name": "Chicken Shawarma Wrap",
+    "description": "Marinated chicken, pickles & creamy garlic sauce",
+    "image": "/images/chicken-shawarma-wrap.jpg",
+    "gallery": [
+      "/images/chicken-shawarma-wrap1.jpg",
+      "/images/chicken-shawarma-wrap2.jpg",
+      "/images/chicken-shawarma-wrap3.jpg"
+    ],
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": "10.1K+",
+    "price": 5.99,
+    "category": "Fast Food"
+  },
+  {
+    "id": 8,
+    "name": "Beef Shawarma Plate",
+    "description": "Sliced beef shawarma with rice, salad & tahini",
+    "image": "/images/beef-shawarma-plate.jpg",
+    "gallery": [
+      "/images/beef-shawarma-plate1.jpg",
+      "/images/beef-shawarma-plate2.jpg",
+      "/images/beef-shawarma-plate3.jpg"
+    ],
+    "badge": "Fresh & Flaky",
+    "rating": 4.3,
+    "reviews": "11.4K+",
+    "price": 8.99,
+    "category": "Fast Food"
+  },
+  {
+    "id": 9,
+    "name": "Hot Dog Special",
+    "description": "Grilled sausage, mustard, ketchup & crispy onions",
+    "image": "/images/hot-dog-special.jpg",
+    "gallery": [
+      "/images/hot-dog-special1.jpg",
+      "/images/hot-dog-special2.jpg",
+      "/images/hot-dog-special3.jpg"
+    ],
+    "badge": "Top Rated",
+    "rating": 4.3,
+    "reviews": "12.7K+",
+    "price": 4.99,
+    "category": "Fast Food"
+  },
+  {
+    "id": 10,
+    "name": "Cheesy Fries",
+    "description": "Golden fries topped with melted cheddar sauce",
+    "image": "/images/cheesy-fries.jpg",
+    "gallery": [
+      "/images/cheesy-fries1.jpg",
+      "/images/cheesy-fries2.jpg",
+      "/images/cheesy-fries3.jpg"
+    ],
+    "badge": "New",
+    "rating": 4.3,
+    "reviews": "2.0K+",
+    "price": 3.99,
+    "category": "Fast Food"
+  },
+  {
+    "id": 11,
+    "name": "Chicken Nuggets",
+    "description": "Ten crispy golden nuggets with dipping sauce",
+    "image": "/images/chicken-nuggets.jpg",
+    "gallery": [
+      "/images/chicken-nuggets1.jpg",
+      "/images/chicken-nuggets2.jpg",
+      "/images/chicken-nuggets3.jpg"
+    ],
+    "badge": "Chef's Pick",
+    "rating": 4.3,
+    "reviews": "3.3K+",
+    "price": 5.49,
+    "category": "Fast Food"
+  },
+  {
+    "id": 12,
+    "name": "Fish & Chips",
+    "description": "Crispy battered fish with thick-cut fries",
+    "image": "/images/fish-and-chips.jpg",
+    "gallery": [
+      "/images/fish-and-chips1.jpg",
+      "/images/fish-and-chips2.jpg",
+      "/images/fish-and-chips3.jpg"
+    ],
+    "badge": "Best Seller",
+    "rating": 4.3,
+    "reviews": "4.6K+",
+    "price": 9.99,
+    "category": "Fast Food"
+  },
+  {
+    "id": 13,
+    "name": "Beef Tacos",
+    "description": "Three soft tacos with spiced beef & fresh salsa",
+    "image": "/images/beef-tacos.jpg",
+    "gallery": [
+      "/images/beef-tacos1.jpg",
+      "/images/beef-tacos2.jpg",
+      "/images/beef-tacos3.jpg"
+    ],
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": "5.9K+",
+    "price": 7.49,
+    "category": "Fast Food"
+  },
+  {
+    "id": 14,
+    "name": "Club Sandwich",
+    "description": "Triple layer chicken, egg, lettuce & tomato",
+    "image": "/images/club-sandwich.jpg",
+    "gallery": [
+      "/images/club-sandwich1.jpg",
+      "/images/club-sandwich2.jpg",
+      "/images/club-sandwich3.jpg"
+    ],
+    "badge": "Fresh & Flaky",
+    "rating": 4.3,
+    "reviews": "7.2K+",
+    "price": 6.49,
+    "category": "Fast Food"
+  },
+  {
+    "id": 15,
+    "name": "Spicy Chicken Wings",
+    "description": "Eight hot wings glazed in chili honey sauce",
+    "image": "/images/spicy-chicken-wings.jpg",
+    "gallery": [
+      "/images/spicy-chicken-wings1.jpg",
+      "/images/spicy-chicken-wings2.jpg",
+      "/images/spicy-chicken-wings3.jpg"
+    ],
+    "badge": "Top Rated",
+    "rating": 4.3,
+    "reviews": "8.5K+",
+    "price": 8.49,
+    "category": "Fast Food"
+  },
+  {
+    "id": 16,
+    "name": "Mushroom Swiss Burger",
+    "description": "Beef patty with sautéed mushrooms & Swiss cheese",
+    "image": "/images/mushroom-swiss-burger.jpg",
+    "gallery": [
+      "/images/mushroom-swiss-burger1.jpg",
+      "/images/mushroom-swiss-burger2.jpg",
+      "/images/mushroom-swiss-burger3.jpg"
+    ],
+    "badge": "New",
+    "rating": 4.3,
+    "reviews": "9.8K+",
+    "price": 9.99,
+    "category": "Fast Food"
+  },
+  {
+    "id": 17,
+    "name": "Onion Rings",
+    "description": "Crispy battered onion rings with tangy dip",
+    "image": "/images/onion-rings.jpg",
+    "gallery": [
+      "/images/onion-rings1.jpg",
+      "/images/onion-rings2.jpg",
+      "/images/onion-rings3.jpg"
+    ],
+    "badge": "Chef's Pick",
+    "rating": 4.3,
+    "reviews": "11.1K+",
+    "price": 3.49,
+    "category": "Appetizers"
+  },
+  {
+    "id": 18,
+    "name": "Mozzarella Sticks",
+    "description": "Golden fried sticks served with tomato sauce",
+    "image": "/images/mozzarella-sticks.jpg",
+    "gallery": [
+      "/images/mozzarella-sticks1.jpg",
+      "/images/mozzarella-sticks2.jpg",
+      "/images/mozzarella-sticks3.jpg"
+    ],
+    "badge": "Best Seller",
+    "rating": 4.3,
+    "reviews": "12.4K+",
+    "price": 4.99,
+    "category": "Appetizers"
+  },
+  {
+    "id": 19,
+    "name": "Garlic Bread",
+    "description": "Toasted bread with garlic butter & herbs",
+    "image": "/images/garlic-bread.jpg",
+    "gallery": [
+      "/images/garlic-bread1.jpg",
+      "/images/garlic-bread2.jpg",
+      "/images/garlic-bread3.jpg"
+    ],
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": "1.7K+",
+    "price": 3.29,
+    "category": "Appetizers"
+  },
+  {
+    "id": 20,
+    "name": "Caesar Salad",
+    "description": "Romaine lettuce, parmesan, croutons & Caesar dressing",
+    "image": "/images/caesar-salad.jpg",
+    "gallery": [
+      "/images/caesar-salad1.jpg",
+      "/images/caesar-salad2.jpg",
+      "/images/caesar-salad3.jpg"
+    ],
+    "badge": "Fresh & Flaky",
+    "rating": 4.3,
+    "reviews": "3.0K+",
+    "price": 5.49,
+    "category": "Appetizers"
+  },
+  {
+    "id": 21,
+    "name": "Hummus & Pita",
+    "description": "Creamy chickpea hummus with warm pita bread",
+    "image": "/images/hummus-and-pita.jpg",
+    "gallery": [
+      "/images/hummus-and-pita1.jpg",
+      "/images/hummus-and-pita2.jpg",
+      "/images/hummus-and-pita3.jpg"
+    ],
+    "badge": "Top Rated",
+    "rating": 4.3,
+    "reviews": "4.3K+",
+    "price": 4.49,
+    "category": "Appetizers"
+  },
+  {
+    "id": 22,
+    "name": "Stuffed Mushrooms",
+    "description": "Baked mushrooms filled with cheese & herbs",
+    "image": "/images/stuffed-mushrooms.jpg",
+    "gallery": [
+      "/images/stuffed-mushrooms1.jpg",
+      "/images/stuffed-mushrooms2.jpg",
+      "/images/stuffed-mushrooms3.jpg"
+    ],
+    "badge": "New",
+    "rating": 4.3,
+    "reviews": "5.6K+",
+    "price": 5.99,
+    "category": "Appetizers"
+  },
+  {
+    "id": 23,
+    "name": "Fried Calamari",
+    "description": "Lightly breaded squid rings with lemon aioli",
+    "image": "/images/fried-calamari.jpg",
+    "gallery": [
+      "/images/fried-calamari1.jpg",
+      "/images/fried-calamari2.jpg",
+      "/images/fried-calamari3.jpg"
+    ],
+    "badge": "Chef's Pick",
+    "rating": 4.3,
+    "reviews": "6.9K+",
+    "price": 7.49,
+    "category": "Appetizers"
+  },
+  {
+    "id": 24,
+    "name": "Chicken Soup",
+    "description": "Warm homemade soup with vegetables & noodles",
+    "image": "/images/chicken-soup.jpg",
+    "gallery": [
+      "/images/chicken-soup1.jpg",
+      "/images/chicken-soup2.jpg",
+      "/images/chicken-soup3.jpg"
+    ],
+    "badge": "Best Seller",
+    "rating": 4.3,
+    "reviews": "8.2K+",
+    "price": 3.99,
+    "category": "Appetizers"
+  },
+  {
+    "id": 25,
+    "name": "Tomato Bruschetta",
+    "description": "Toasted baguette topped with fresh tomato & basil",
+    "image": "/images/tomato-bruschetta.jpg",
+    "gallery": [
+      "/images/tomato-bruschetta1.jpg",
+      "/images/tomato-bruschetta2.jpg",
+      "/images/tomato-bruschetta3.jpg"
+    ],
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": "9.5K+",
+    "price": 4.29,
+    "category": "Appetizers"
+  },
+  {
+    "id": 26,
+    "name": "Spring Rolls",
+    "description": "Crispy vegetable rolls with sweet chili sauce",
+    "image": "/images/spring-rolls.jpg",
+    "gallery": [
+      "/images/spring-rolls1.jpg",
+      "/images/spring-rolls2.jpg",
+      "/images/spring-rolls3.jpg"
+    ],
+    "badge": "Fresh & Flaky",
+    "rating": 4.3,
+    "reviews": "10.8K+",
+    "price": 4.79,
+    "category": "Appetizers"
+  },
+  {
+    "id": 27,
+    "name": "Falafel Bites",
+    "description": "Crunchy herb falafel with tahini dip",
+    "image": "/images/falafel-bites.jpg",
+    "gallery": [
+      "/images/falafel-bites1.jpg",
+      "/images/falafel-bites2.jpg",
+      "/images/falafel-bites3.jpg"
+    ],
+    "badge": "Top Rated",
+    "rating": 4.3,
+    "reviews": "12.1K+",
+    "price": 3.99,
+    "category": "Appetizers"
+  },
+  {
+    "id": 28,
+    "name": "Cream of Mushroom Soup",
+    "description": "Rich and velvety mushroom soup with croutons",
+    "image": "/images/cream-of-mushroom-soup.jpg",
+    "gallery": [
+      "/images/cream-of-mushroom-soup1.jpg",
+      "/images/cream-of-mushroom-soup2.jpg",
+      "/images/cream-of-mushroom-soup3.jpg"
+    ],
+    "badge": "New",
+    "rating": 4.3,
+    "reviews": "1.4K+",
+    "price": 4.49,
+    "category": "Appetizers"
+  },
+  {
+    "id": 29,
+    "name": "Jalapeño Poppers",
+    "description": "Cheese-filled jalapeños, breaded and fried",
+    "image": "/images/jalapeno-poppers.jpg",
+    "gallery": [
+      "/images/jalapeno-poppers1.jpg",
+      "/images/jalapeno-poppers2.jpg",
+      "/images/jalapeno-poppers3.jpg"
+    ],
+    "badge": "Chef's Pick",
+    "rating": 4.3,
+    "reviews": "2.7K+",
+    "price": 5.29,
+    "category": "Appetizers"
+  },
+  {
+    "id": 30,
+    "name": "Greek Salad",
+    "description": "Cucumber, tomato, olives & feta with olive oil",
+    "image": "/images/greek-salad.jpg",
+    "gallery": [
+      "/images/greek-salad1.jpg",
+      "/images/greek-salad2.jpg",
+      "/images/greek-salad3.jpg"
+    ],
+    "badge": "Best Seller",
+    "rating": 4.3,
+    "reviews": "4.0K+",
+    "price": 5.99,
+    "category": "Appetizers"
+  },
+  {
+    "id": 31,
+    "name": "Potato Wedges",
+    "description": "Seasoned baked potato wedges with sour cream",
+    "image": "/images/potato-wedges.jpg",
+    "gallery": [
+      "/images/potato-wedges1.jpg",
+      "/images/potato-wedges2.jpg",
+      "/images/potato-wedges3.jpg"
+    ],
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": "5.3K+",
+    "price": 3.79,
+    "category": "Appetizers"
+  },
+  {
+    "id": 32,
+    "name": "Shrimp Cocktail",
+    "description": "Chilled shrimp served with tangy cocktail sauce",
+    "image": "/images/shrimp-cocktail.jpg",
+    "gallery": [
+      "/images/shrimp-cocktail1.jpg",
+      "/images/shrimp-cocktail2.jpg",
+      "/images/shrimp-cocktail3.jpg"
+    ],
+    "badge": "Fresh & Flaky",
+    "rating": 4.3,
+    "reviews": "6.6K+",
+    "price": 8.49,
+    "category": "Appetizers"
+  },
+  {
+    "id": 33,
+    "name": "Butter Croissant",
+    "description": "Golden, fresh and flaky layers with powdered sugar",
+    "image": "/images/butter-croissant.jpg",
+    "gallery": [
+      "/images/butter-croissant1.jpg",
+      "/images/butter-croissant2.jpg",
+      "/images/butter-croissant3.jpg"
+    ],
+    "badge": "Top Rated",
+    "rating": 4.3,
+    "reviews": "7.9K+",
+    "price": 4.99,
+    "category": "Baked Goods"
+  },
+  {
+    "id": 34,
+    "name": "Chocolate Croissant",
+    "description": "Flaky pastry filled with rich dark chocolate",
+    "image": "/images/chocolate-croissant.jpg",
+    "gallery": [
+      "/images/chocolate-croissant1.jpg",
+      "/images/chocolate-croissant2.jpg",
+      "/images/chocolate-croissant3.jpg"
+    ],
+    "badge": "New",
+    "rating": 4.3,
+    "reviews": "9.2K+",
+    "price": 5.49,
+    "category": "Baked Goods"
+  },
+  {
+    "id": 35,
+    "name": "Cinnamon Roll",
+    "description": "Warm soft roll with cinnamon glaze",
+    "image": "/images/cinnamon-roll.jpg",
+    "gallery": [
+      "/images/cinnamon-roll1.jpg",
+      "/images/cinnamon-roll2.jpg",
+      "/images/cinnamon-roll3.jpg"
+    ],
+    "badge": "Chef's Pick",
+    "rating": 4.3,
+    "reviews": "10.5K+",
+    "price": 3.99,
+    "category": "Baked Goods"
+  },
+  {
+    "id": 36,
+    "name": "Blueberry Muffin",
+    "description": "Moist muffin packed with fresh blueberries",
+    "image": "/images/blueberry-muffin.jpg",
+    "gallery": [
+      "/images/blueberry-muffin1.jpg",
+      "/images/blueberry-muffin2.jpg",
+      "/images/blueberry-muffin3.jpg"
+    ],
+    "badge": "Best Seller",
+    "rating": 4.3,
+    "reviews": "11.8K+",
+    "price": 3.49,
+    "category": "Baked Goods"
+  },
+  {
+    "id": 37,
+    "name": "Chocolate Chip Cookie",
+    "description": "Chewy cookie with generous chocolate chunks",
+    "image": "/images/chocolate-chip-cookie.jpg",
+    "gallery": [
+      "/images/chocolate-chip-cookie1.jpg",
+      "/images/chocolate-chip-cookie2.jpg",
+      "/images/chocolate-chip-cookie3.jpg"
+    ],
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": "1.1K+",
+    "price": 2.49,
+    "category": "Baked Goods"
+  },
+  {
+    "id": 38,
+    "name": "Sourdough Loaf",
+    "description": "Rustic crusty loaf baked fresh every morning",
+    "image": "/images/sourdough-loaf.jpg",
+    "gallery": [
+      "/images/sourdough-loaf1.jpg",
+      "/images/sourdough-loaf2.jpg",
+      "/images/sourdough-loaf3.jpg"
+    ],
+    "badge": "Fresh & Flaky",
+    "rating": 4.3,
+    "reviews": "2.4K+",
+    "price": 5.99,
+    "category": "Baked Goods"
+  },
+  {
+    "id": 39,
+    "name": "Almond Danish",
+    "description": "Buttery pastry topped with almonds & sweet cream",
+    "image": "/images/almond-danish.jpg",
+    "gallery": [
+      "/images/almond-danish1.jpg",
+      "/images/almond-danish2.jpg",
+      "/images/almond-danish3.jpg"
+    ],
+    "badge": "Top Rated",
+    "rating": 4.3,
+    "reviews": "3.7K+",
+    "price": 4.79,
+    "category": "Baked Goods"
+  },
+  {
+    "id": 40,
+    "name": "Banana Bread",
+    "description": "Soft homemade banana bread with walnuts",
+    "image": "/images/banana-bread.jpg",
+    "gallery": [
+      "/images/banana-bread1.jpg",
+      "/images/banana-bread2.jpg",
+      "/images/banana-bread3.jpg"
+    ],
+    "badge": "New",
+    "rating": 4.3,
+    "reviews": "5.0K+",
+    "price": 3.99,
+    "category": "Baked Goods"
+  },
+  {
+    "id": 41,
+    "name": "Cheese Pie",
+    "description": "Warm flaky pie filled with creamy white cheese",
+    "image": "/images/cheese-pie.jpg",
+    "gallery": [
+      "/images/cheese-pie1.jpg",
+      "/images/cheese-pie2.jpg",
+      "/images/cheese-pie3.jpg"
+    ],
+    "badge": "Chef's Pick",
+    "rating": 4.3,
+    "reviews": "6.3K+",
+    "price": 3.49,
+    "category": "Baked Goods"
+  },
+  {
+    "id": 42,
+    "name": "Apple Turnover",
+    "description": "Crisp pastry stuffed with spiced cinnamon apples",
+    "image": "/images/apple-turnover.jpg",
+    "gallery": [
+      "/images/apple-turnover1.jpg",
+      "/images/apple-turnover2.jpg",
+      "/images/apple-turnover3.jpg"
+    ],
+    "badge": "Best Seller",
+    "rating": 4.3,
+    "reviews": "7.6K+",
+    "price": 4.29,
+    "category": "Baked Goods"
+  },
+  {
+    "id": 43,
+    "name": "Baguette",
+    "description": "Classic French baguette with a crunchy crust",
+    "image": "/images/baguette.jpg",
+    "gallery": [
+      "/images/baguette1.jpg",
+      "/images/baguette2.jpg",
+      "/images/baguette3.jpg"
+    ],
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": "8.9K+",
+    "price": 2.99,
+    "category": "Baked Goods"
+  },
+  {
+    "id": 44,
+    "name": "Zaatar Manakish",
+    "description": "Fresh baked flatbread with olive oil & zaatar",
+    "image": "/images/zaatar-manakish.jpg",
+    "gallery": [
+      "/images/zaatar-manakish1.jpg",
+      "/images/zaatar-manakish2.jpg",
+      "/images/zaatar-manakish3.jpg"
+    ],
+    "badge": "Fresh & Flaky",
+    "rating": 4.3,
+    "reviews": "10.2K+",
+    "price": 2.79,
+    "category": "Baked Goods"
+  },
+  {
+    "id": 45,
+    "name": "Pretzel Twist",
+    "description": "Soft salted pretzel with mustard dip",
+    "image": "/images/pretzel-twist.jpg",
+    "gallery": [
+      "/images/pretzel-twist1.jpg",
+      "/images/pretzel-twist2.jpg",
+      "/images/pretzel-twist3.jpg"
+    ],
+    "badge": "Top Rated",
+    "rating": 4.3,
+    "reviews": "11.5K+",
+    "price": 3.29,
+    "category": "Baked Goods"
+  },
+  {
+    "id": 46,
+    "name": "Brioche Bun",
+    "description": "Light, buttery and slightly sweet brioche",
+    "image": "/images/brioche-bun.jpg",
+    "gallery": [
+      "/images/brioche-bun1.jpg",
+      "/images/brioche-bun2.jpg",
+      "/images/brioche-bun3.jpg"
+    ],
+    "badge": "New",
+    "rating": 4.3,
+    "reviews": "12.8K+",
+    "price": 2.99,
+    "category": "Baked Goods"
+  },
+  {
+    "id": 47,
+    "name": "Lemon Scone",
+    "description": "Tender scone with lemon glaze & clotted cream",
+    "image": "/images/lemon-scone.jpg",
+    "gallery": [
+      "/images/lemon-scone1.jpg",
+      "/images/lemon-scone2.jpg",
+      "/images/lemon-scone3.jpg"
+    ],
+    "badge": "Chef's Pick",
+    "rating": 4.3,
+    "reviews": "2.1K+",
+    "price": 3.79,
+    "category": "Baked Goods"
+  },
+  {
+    "id": 48,
+    "name": "Focaccia",
+    "description": "Olive oil focaccia with rosemary & sea salt",
+    "image": "/images/focaccia.jpg",
+    "gallery": [
+      "/images/focaccia1.jpg",
+      "/images/focaccia2.jpg",
+      "/images/focaccia3.jpg"
+    ],
+    "badge": "Best Seller",
+    "rating": 4.3,
+    "reviews": "3.4K+",
+    "price": 4.49,
+    "category": "Baked Goods"
+  },
+  {
+    "id": 49,
+    "name": "Chocolate Lava Cake",
+    "description": "Warm cake with a melting chocolate center",
+    "image": "/images/chocolate-lava-cake.jpg",
+    "gallery": [
+      "/images/chocolate-lava-cake1.jpg",
+      "/images/chocolate-lava-cake2.jpg",
+      "/images/chocolate-lava-cake3.jpg"
+    ],
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": "4.7K+",
+    "price": 6.49,
+    "category": "Desserts"
+  },
+  {
+    "id": 50,
+    "name": "New York Cheesecake",
+    "description": "Creamy cheesecake with strawberry sauce",
+    "image": "/images/new-york-cheesecake.jpg",
+    "gallery": [
+      "/images/new-york-cheesecake1.jpg",
+      "/images/new-york-cheesecake2.jpg",
+      "/images/new-york-cheesecake3.jpg"
+    ],
+    "badge": "Fresh & Flaky",
+    "rating": 4.3,
+    "reviews": "6.0K+",
+    "price": 6.99,
+    "category": "Desserts"
+  },
+  {
+    "id": 51,
+    "name": "Tiramisu",
+    "description": "Italian dessert with coffee-soaked layers & mascarpone",
+    "image": "/images/tiramisu.jpg",
+    "gallery": [
+      "/images/tiramisu1.jpg",
+      "/images/tiramisu2.jpg",
+      "/images/tiramisu3.jpg"
+    ],
+    "badge": "Top Rated",
+    "rating": 4.3,
+    "reviews": "7.3K+",
+    "price": 6.49,
+    "category": "Desserts"
+  },
+  {
+    "id": 52,
+    "name": "Om Ali",
+    "description": "Egyptian warm pudding with nuts, raisins & cream",
+    "image": "/images/om-ali.jpg",
+    "gallery": [
+      "/images/om-ali1.jpg",
+      "/images/om-ali2.jpg",
+      "/images/om-ali3.jpg"
+    ],
+    "badge": "New",
+    "rating": 4.3,
+    "reviews": "8.6K+",
+    "price": 4.99,
+    "category": "Desserts"
+  },
+  {
+    "id": 53,
+    "name": "Basbousa",
+    "description": "Sweet semolina cake soaked in sugar syrup",
+    "image": "/images/basbousa.jpg",
+    "gallery": [
+      "/images/basbousa1.jpg",
+      "/images/basbousa2.jpg",
+      "/images/basbousa3.jpg"
+    ],
+    "badge": "Chef's Pick",
+    "rating": 4.3,
+    "reviews": "9.9K+",
+    "price": 3.99,
+    "category": "Desserts"
+  },
+  {
+    "id": 54,
+    "name": "Kunafa with Cream",
+    "description": "Crispy kunafa filled with cream & sweet syrup",
+    "image": "/images/kunafa-with-cream.jpg",
+    "gallery": [
+      "/images/kunafa-with-cream1.jpg",
+      "/images/kunafa-with-cream2.jpg",
+      "/images/kunafa-with-cream3.jpg"
+    ],
+    "badge": "Best Seller",
+    "rating": 4.3,
+    "reviews": "11.2K+",
+    "price": 5.99,
+    "category": "Desserts"
+  },
+  {
+    "id": 55,
+    "name": "Vanilla Ice Cream",
+    "description": "Three scoops of creamy vanilla ice cream",
+    "image": "/images/vanilla-ice-cream.jpg",
+    "gallery": [
+      "/images/vanilla-ice-cream1.jpg",
+      "/images/vanilla-ice-cream2.jpg",
+      "/images/vanilla-ice-cream3.jpg"
+    ],
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": "12.5K+",
+    "price": 3.99,
+    "category": "Desserts"
+  },
+  {
+    "id": 56,
+    "name": "Brownie Sundae",
+    "description": "Warm brownie with ice cream & chocolate sauce",
+    "image": "/images/brownie-sundae.jpg",
+    "gallery": [
+      "/images/brownie-sundae1.jpg",
+      "/images/brownie-sundae2.jpg",
+      "/images/brownie-sundae3.jpg"
+    ],
+    "badge": "Fresh & Flaky",
+    "rating": 4.3,
+    "reviews": "1.8K+",
+    "price": 5.99,
+    "category": "Desserts"
+  },
+  {
+    "id": 57,
+    "name": "Red Velvet Cake",
+    "description": "Soft red velvet layers with cream cheese frosting",
+    "image": "/images/red-velvet-cake.jpg",
+    "gallery": [
+      "/images/red-velvet-cake1.jpg",
+      "/images/red-velvet-cake2.jpg",
+      "/images/red-velvet-cake3.jpg"
+    ],
+    "badge": "Top Rated",
+    "rating": 4.3,
+    "reviews": "3.1K+",
+    "price": 5.99,
+    "category": "Desserts"
+  },
+  {
+    "id": 58,
+    "name": "Crème Brûlée",
+    "description": "Silky vanilla custard with caramelized sugar top",
+    "image": "/images/creme-brulee.jpg",
+    "gallery": [
+      "/images/creme-brulee1.jpg",
+      "/images/creme-brulee2.jpg",
+      "/images/creme-brulee3.jpg"
+    ],
+    "badge": "New",
+    "rating": 4.3,
+    "reviews": "4.4K+",
+    "price": 6.49,
+    "category": "Desserts"
+  },
+  {
+    "id": 59,
+    "name": "Rice Pudding",
+    "description": "Creamy rice pudding with cinnamon",
+    "image": "/images/rice-pudding.jpg",
+    "gallery": [
+      "/images/rice-pudding1.jpg",
+      "/images/rice-pudding2.jpg",
+      "/images/rice-pudding3.jpg"
+    ],
+    "badge": "Chef's Pick",
+    "rating": 4.3,
+    "reviews": "5.7K+",
+    "price": 3.49,
+    "category": "Desserts"
+  },
+  {
+    "id": 60,
+    "name": "Fruit Tart",
+    "description": "Buttery tart with custard & fresh seasonal fruits",
+    "image": "/images/fruit-tart.jpg",
+    "gallery": [
+      "/images/fruit-tart1.jpg",
+      "/images/fruit-tart2.jpg",
+      "/images/fruit-tart3.jpg"
+    ],
+    "badge": "Best Seller",
+    "rating": 4.3,
+    "reviews": "7.0K+",
+    "price": 5.49,
+    "category": "Desserts"
+  },
+  {
+    "id": 61,
+    "name": "Waffles with Nutella",
+    "description": "Crispy waffles topped with Nutella & bananas",
+    "image": "/images/waffles-with-nutella.jpg",
+    "gallery": [
+      "/images/waffles-with-nutella1.jpg",
+      "/images/waffles-with-nutella2.jpg",
+      "/images/waffles-with-nutella3.jpg"
+    ],
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": "8.3K+",
+    "price": 6.49,
+    "category": "Desserts"
+  },
+  {
+    "id": 62,
+    "name": "Strawberry Pancakes",
+    "description": "Fluffy pancakes with fresh strawberries & syrup",
+    "image": "/images/strawberry-pancakes.jpg",
+    "gallery": [
+      "/images/strawberry-pancakes1.jpg",
+      "/images/strawberry-pancakes2.jpg",
+      "/images/strawberry-pancakes3.jpg"
+    ],
+    "badge": "Fresh & Flaky",
+    "rating": 4.3,
+    "reviews": "9.6K+",
+    "price": 5.99,
+    "category": "Desserts"
+  },
+  {
+    "id": 63,
+    "name": "Panna Cotta",
+    "description": "Smooth vanilla cream with berry compote",
+    "image": "/images/panna-cotta.jpg",
+    "gallery": [
+      "/images/panna-cotta1.jpg",
+      "/images/panna-cotta2.jpg",
+      "/images/panna-cotta3.jpg"
+    ],
+    "badge": "Top Rated",
+    "rating": 4.3,
+    "reviews": "10.9K+",
+    "price": 5.49,
+    "category": "Desserts"
+  },
+  {
+    "id": 64,
+    "name": "Churros",
+    "description": "Crispy cinnamon churros with chocolate dip",
+    "image": "/images/churros.jpg",
+    "gallery": [
+      "/images/churros1.jpg",
+      "/images/churros2.jpg",
+      "/images/churros3.jpg"
+    ],
+    "badge": "New",
+    "rating": 4.3,
+    "reviews": "12.2K+",
+    "price": 4.49,
+    "category": "Desserts"
+  },
+  {
+    "id": 65,
+    "name": "Fresh Orange Juice",
+    "description": "Squeezed fresh every day",
+    "image": "/images/fresh-orange-juice.jpg",
+    "gallery": [
+      "/images/fresh-orange-juice1.jpg",
+      "/images/fresh-orange-juice2.jpg",
+      "/images/fresh-orange-juice3.jpg"
+    ],
+    "badge": "Chef's Pick",
+    "rating": 4.3,
+    "reviews": "1.5K+",
+    "price": 2.99,
+    "category": "Drinks"
+  },
+  {
+    "id": 66,
+    "name": "Iced Latte",
+    "description": "Smooth espresso with cold milk over ice",
+    "image": "/images/iced-latte.jpg",
+    "gallery": [
+      "/images/iced-latte1.jpg",
+      "/images/iced-latte2.jpg",
+      "/images/iced-latte3.jpg"
+    ],
+    "badge": "Best Seller",
+    "rating": 4.3,
+    "reviews": "2.8K+",
+    "price": 3.49,
+    "category": "Drinks"
+  },
+  {
+    "id": 67,
+    "name": "Mango Smoothie",
+    "description": "Thick and creamy fresh mango smoothie",
+    "image": "/images/mango-smoothie.jpg",
+    "gallery": [
+      "/images/mango-smoothie1.jpg",
+      "/images/mango-smoothie2.jpg",
+      "/images/mango-smoothie3.jpg"
+    ],
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": "4.1K+",
+    "price": 3.99,
+    "category": "Drinks"
+  },
+  {
+    "id": 68,
+    "name": "Strawberry Milkshake",
+    "description": "Ice cream blended with fresh strawberries",
+    "image": "/images/strawberry-milkshake.jpg",
+    "gallery": [
+      "/images/strawberry-milkshake1.jpg",
+      "/images/strawberry-milkshake2.jpg",
+      "/images/strawberry-milkshake3.jpg"
+    ],
+    "badge": "Fresh & Flaky",
+    "rating": 4.3,
+    "reviews": "5.4K+",
+    "price": 4.49,
+    "category": "Drinks"
+  },
+  {
+    "id": 69,
+    "name": "Chocolate Milkshake",
+    "description": "Rich chocolate blended with vanilla ice cream",
+    "image": "/images/chocolate-milkshake.jpg",
+    "gallery": [
+      "/images/chocolate-milkshake1.jpg",
+      "/images/chocolate-milkshake2.jpg",
+      "/images/chocolate-milkshake3.jpg"
+    ],
+    "badge": "Top Rated",
+    "rating": 4.3,
+    "reviews": "6.7K+",
+    "price": 4.49,
+    "category": "Drinks"
+  },
+  {
+    "id": 70,
+    "name": "Lemon Mint",
+    "description": "Refreshing lemon juice blended with fresh mint",
+    "image": "/images/lemon-mint.jpg",
+    "gallery": [
+      "/images/lemon-mint1.jpg",
+      "/images/lemon-mint2.jpg",
+      "/images/lemon-mint3.jpg"
+    ],
+    "badge": "New",
+    "rating": 4.3,
+    "reviews": "8.0K+",
+    "price": 2.99,
+    "category": "Drinks"
+  },
+  {
+    "id": 71,
+    "name": "Cappuccino",
+    "description": "Espresso with steamed milk & velvety foam",
+    "image": "/images/cappuccino.jpg",
+    "gallery": [
+      "/images/cappuccino1.jpg",
+      "/images/cappuccino2.jpg",
+      "/images/cappuccino3.jpg"
+    ],
+    "badge": "Chef's Pick",
+    "rating": 4.3,
+    "reviews": "9.3K+",
+    "price": 3.29,
+    "category": "Drinks"
+  },
+  {
+    "id": 72,
+    "name": "Hot Chocolate",
+    "description": "Warm creamy chocolate topped with marshmallows",
+    "image": "/images/hot-chocolate.jpg",
+    "gallery": [
+      "/images/hot-chocolate1.jpg",
+      "/images/hot-chocolate2.jpg",
+      "/images/hot-chocolate3.jpg"
+    ],
+    "badge": "Best Seller",
+    "rating": 4.3,
+    "reviews": "10.6K+",
+    "price": 3.49,
+    "category": "Drinks"
+  },
+  {
+    "id": 73,
+    "name": "Iced Tea Peach",
+    "description": "Cold black tea with sweet peach flavor",
+    "image": "/images/iced-tea-peach.jpg",
+    "gallery": [
+      "/images/iced-tea-peach1.jpg",
+      "/images/iced-tea-peach2.jpg",
+      "/images/iced-tea-peach3.jpg"
+    ],
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": "11.9K+",
+    "price": 2.79,
+    "category": "Drinks"
+  },
+  {
+    "id": 74,
+    "name": "Watermelon Juice",
+    "description": "Cold, fresh and naturally sweet watermelon juice",
+    "image": "/images/watermelon-juice.jpg",
+    "gallery": [
+      "/images/watermelon-juice1.jpg",
+      "/images/watermelon-juice2.jpg",
+      "/images/watermelon-juice3.jpg"
+    ],
+    "badge": "Fresh & Flaky",
+    "rating": 4.3,
+    "reviews": "1.2K+",
+    "price": 3.29,
+    "category": "Drinks"
+  },
+  {
+    "id": 75,
+    "name": "Caramel Frappe",
+    "description": "Iced coffee blended with caramel & whipped cream",
+    "image": "/images/caramel-frappe.jpg",
+    "gallery": [
+      "/images/caramel-frappe1.jpg",
+      "/images/caramel-frappe2.jpg",
+      "/images/caramel-frappe3.jpg"
+    ],
+    "badge": "Top Rated",
+    "rating": 4.3,
+    "reviews": "2.5K+",
+    "price": 4.29,
+    "category": "Drinks"
+  },
+  {
+    "id": 76,
+    "name": "Sparkling Water",
+    "description": "Chilled sparkling water with a lemon slice",
+    "image": "/images/sparkling-water.jpg",
+    "gallery": [
+      "/images/sparkling-water1.jpg",
+      "/images/sparkling-water2.jpg",
+      "/images/sparkling-water3.jpg"
+    ],
+    "badge": "New",
+    "rating": 4.3,
+    "reviews": "3.8K+",
+    "price": 1.99,
+    "category": "Drinks"
+  },
+  {
+    "id": 77,
+    "name": "Green Smoothie",
+    "description": "Spinach, apple, banana & lime blended fresh",
+    "image": "/images/green-smoothie.jpg",
+    "gallery": [
+      "/images/green-smoothie1.jpg",
+      "/images/green-smoothie2.jpg",
+      "/images/green-smoothie3.jpg"
+    ],
+    "badge": "Chef's Pick",
+    "rating": 4.3,
+    "reviews": "5.1K+",
+    "price": 3.99,
+    "category": "Drinks"
+  },
+  {
+    "id": 78,
+    "name": "Americano",
+    "description": "Bold espresso with hot water",
+    "image": "/images/americano.jpg",
+    "gallery": [
+      "/images/americano1.jpg",
+      "/images/americano2.jpg",
+      "/images/americano3.jpg"
+    ],
+    "badge": "Best Seller",
+    "rating": 4.3,
+    "reviews": "6.4K+",
+    "price": 2.79,
+    "category": "Drinks"
+  },
+  {
+    "id": 79,
+    "name": "Karkadeh",
+    "description": "Traditional chilled hibiscus drink",
+    "image": "/images/karkadeh.jpg",
+    "gallery": [
+      "/images/karkadeh1.jpg",
+      "/images/karkadeh2.jpg",
+      "/images/karkadeh3.jpg"
+    ],
+    "badge": "Popular",
+    "rating": 4.3,
+    "reviews": "7.7K+",
+    "price": 2.49,
+    "category": "Drinks"
+  },
+  {
+    "id": 80,
+    "name": "Coca-Cola",
+    "description": "Classic chilled soft drink",
+    "image": "/images/coca-cola.jpg",
+    "gallery": [
+      "/images/coca-cola1.jpg",
+      "/images/coca-cola2.jpg",
+      "/images/coca-cola3.jpg"
+    ],
+    "badge": "Fresh & Flaky",
+    "rating": 4.3,
+    "reviews": "9.0K+",
+    "price": 1.49,
+    "category": "Drinks"
+  }
+]
