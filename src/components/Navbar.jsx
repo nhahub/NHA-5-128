@@ -1,10 +1,21 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { Search, ShoppingCart, Menu, X } from 'lucide-react';
 import SavoraLogo from '../assets/icons/SavoraLogo.svg';
 
 export default function Navbar({ cartCount = 0, onOpenSignIn }) {
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [isScrolled, setIsScrolled] = useState(false);
+
+  useEffect(() => {
+    const handleScroll = () => {
+      setIsScrolled(window.scrollY > 12);
+    };
+
+    handleScroll();
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
 
   const navLinks = [
     { name: 'Home', path: '/' },
@@ -15,8 +26,14 @@ export default function Navbar({ cartCount = 0, onOpenSignIn }) {
   ];
 
   return (
-    <header className="w-full pt-7 px-4">
-      <nav className="max-w-[1200px] mx-auto h-[88px] bg-white rounded-full shadow-[0_12px_25px_0_rgba(0,0,0,0.16)] px-8 md:px-11 flex items-center justify-between relative">
+    <header className="sticky top-0 z-50 w-full pt-7 px-4">
+      <nav
+        className={`max-w-[1200px] mx-auto h-[94px] rounded-full px-8 md:px-11 flex items-center justify-between relative transition-all duration-300 ${
+          isScrolled
+            ? 'bg-white/85 backdrop-blur-md shadow-[0_14px_30px_rgba(0,0,0,0.18)]'
+            : 'bg-white shadow-[0_12px_25px_0_rgba(0,0,0,0.16)]'
+        }`}
+      >
         
         {/* Logo */}
         <Link to="/" className="flex items-center justify-center shrink-0">
@@ -89,7 +106,7 @@ export default function Navbar({ cartCount = 0, onOpenSignIn }) {
 
         {/* Mobile Dropdown Menu */}
         {isMobileMenuOpen && (
-          <div className="absolute top-[100px] left-0 right-0 bg-white rounded-3xl shadow-xl p-6 flex flex-col gap-4 md:hidden z-50">
+          <div className="absolute top-[106px] left-0 right-0 bg-white rounded-3xl shadow-xl p-6 flex flex-col gap-4 md:hidden z-50">
             {navLinks.map((link) => (
               <NavLink
                 key={link.path}

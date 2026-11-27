@@ -20,7 +20,7 @@ export default function HeroSection() {
   };
 
   return (
-    <section className="w-full pt-6 pb-16 md:pt-10 md:pb-24 px-4 md:px-8 overflow-x-clip">
+    <section className="w-full pt-6 md:pt-10 px-4 md:px-8 overflow-x-clip">
       <style>{`
         @keyframes savoraHeroPulse {
           0%, 100% {
@@ -147,11 +147,11 @@ export default function HeroSection() {
             </p>
 
             <div className="flex items-center gap-0.5 text-savora-amber">
-              <Star size={16} className="fill-savora-amber text-savora-amber" />
-              <Star size={16} className="fill-savora-amber text-savora-amber" />
-              <Star size={16} className="fill-savora-amber text-savora-amber" />
-              <Star size={16} className="fill-savora-amber text-savora-amber" />
-              <Star size={16} className="fill-savora-amber text-savora-amber" />
+              <Star size={16} className="fill-yellow-400 text-yellow-400" />
+              <Star size={16} className="fill-yellow-400 text-yellow-400" />
+              <Star size={16} className="fill-yellow-400 text-yellow-400" />
+              <Star size={16} className="fill-yellow-400 text-yellow-400" />
+              <Star size={16} className="fill-yellow-400 text-yellow-400" />
             </div>
           </div>
         </div>
